@@ -7,6 +7,13 @@ Este repositório contém a implementação de uma pipeline de deploy para uma a
 1. **Deploy da aplicação Node.js em um container Docker**.
 2. **Deploy da aplicação Node.js em um cluster Kubernetes**.
 
+## Estrutura do Projeto
+
+Este repositório contém os seguintes arquivos e diretórios:
+
+- `docker-deploy/` - Contém os arquivos necessários para realizar o deploy utilizando Docker.
+- `kubernetes-deploy/` - Contém os arquivos de configuração para o deploy utilizando Kubernetes, incluindo o arquivo `k8s-deployment.yaml` para a criação do Deployment no Kubernetes.
+  
 ## Tecnologias Utilizadas
 
 - **Node.js** - Framework para construção da aplicação.
@@ -15,10 +22,4 @@ Este repositório contém a implementação de uma pipeline de deploy para uma a
 - **Git** - Controle de versão.
 - **GitLab** - Plataforma para integração contínua e deploy contínuo.
 
-## Estrutura do Projeto
-
-Este repositório contém os seguintes arquivos e diretórios:
-
-- `docker-deploy/` - Contém os arquivos necessários para realizar o deploy utilizando Docker.
-- `kubernetes-deploy/` - Contém os arquivos de configuração para o deploy utilizando Kubernetes, incluindo o arquivo `k8s-deployment.yaml` para a criação do Deployment no Kubernetes.
 
