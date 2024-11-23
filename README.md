@@ -1,4 +1,4 @@
-<h1 align="center">GitLabCICD - Docker & Kubernetes</h1>
+<h1 align="center">GitLab CI/CD - Docker & Kubernetes</h1>
 
 ## Descrição do Projeto
 
