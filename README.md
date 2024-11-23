@@ -1,10 +1,8 @@
-# GitLabCICD - Docker & Kubernetes
-
-Este repositório contém a implementação de uma pipeline de deploy para uma aplicação Node.js utilizando **Docker** e **Kubernetes**. O projeto é estruturado em duas partes: uma para o deploy com Docker e outra para o deploy com Kubernetes.
+<h1 align="center">GitLabCICD - Docker & Kubernetes</h1>
 
 ## Descrição do Projeto
 
-O objetivo deste projeto é demonstrar como criar e gerenciar pipelines de deploy de uma aplicação Node.js em dois cenários diferentes:
+Este repositório contém a implementação de uma pipeline de deploy para uma aplicação Node.js utilizando **Docker** e **Kubernetes**. O projeto é estruturado em duas partes: uma para o deploy com Docker e outra para o deploy com Kubernetes.O objetivo deste projeto é demonstrar como criar e gerenciar pipelines de deploy de uma aplicação Node.js em dois cenários diferentes:
 
 1. **Deploy da aplicação Node.js em um container Docker**.
 2. **Deploy da aplicação Node.js em um cluster Kubernetes**.
