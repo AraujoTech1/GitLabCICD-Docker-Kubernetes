@@ -15,9 +15,10 @@ Este repositório contém a implementação de uma pipeline de deploy para uma a
 ---
 
 ## Estrutura 
+
 Este repositório contém os seguintes arquivos e diretórios:
- - `docker-deploy/` - Contém os arquivos necessários para realizar o deploy utilizando Docker
- - `kubernetes-deploy/` - Contém os arquivos de configuração para o deploy utilizando Kubernetes, incluindo o arquivo `k8s-deployment.yaml` para a criação do Deployment no Kubernetes
+ -  `docker-deploy/` - Contém os arquivos necessários para realizar o deploy utilizando Docker
+ -  `kubernetes-deploy/` - Contém os arquivos de configuração para o deploy utilizando Kubernetes, incluindo o arquivo `k8s-deployment.yaml` para a criação do Deployment no Kubernetes
 
 ---
   
