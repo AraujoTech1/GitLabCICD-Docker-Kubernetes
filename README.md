@@ -30,3 +30,5 @@ Este repositório contém os seguintes arquivos e diretórios:
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00A9E0" alt="Git" />
 <img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=00A9E0" alt="GitLab" />
 <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00A9E0" alt="VS Code" />
+
+
