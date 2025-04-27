@@ -14,21 +14,22 @@ Este repositório contém a implementação de uma pipeline de deploy para uma a
 
 ---
 
-## Estrutura do Projeto
+## Estrutura 
 Este repositório contém os seguintes arquivos e diretórios:
-
-- `docker-deploy/` - Contém os arquivos necessários para realizar o deploy utilizando Docker
-- `kubernetes-deploy/` - Contém os arquivos de configuração para o deploy utilizando Kubernetes, incluindo o arquivo `k8s-deployment.yaml` para a criação do Deployment no Kubernetes
+ - `docker-deploy/` - Contém os arquivos necessários para realizar o deploy utilizando Docker
+ - `kubernetes-deploy/` - Contém os arquivos de configuração para o deploy utilizando Kubernetes, incluindo o arquivo `k8s-deployment.yaml` para a criação do Deployment no Kubernetes
 
 ---
   
 ## Tecnologias 
 
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00A9E0" alt="Node.js" />
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00A9E0" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00A9E0" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00A9E0" alt="Git" />
-<img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=00A9E0" alt="GitLab" />
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00A9E0" alt="VS Code" />
+<p>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00A9E0" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00A9E0" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00A9E0" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00A9E0" alt="Git" />
+  <img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=00A9E0" alt="GitLab" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00A9E0" alt="VS Code" />
+</p>
 
 
