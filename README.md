@@ -12,25 +12,21 @@ Este repositório contém a implementação de uma pipeline de deploy para uma a
 1. **Deploy da aplicação Node.js em um container Docker**
 2. **Deploy da aplicação Node.js em um cluster Kubernetes**
 
+---
+
 ## Estrutura do Projeto
 Este repositório contém os seguintes arquivos e diretórios:
 
 - `docker-deploy/` - Contém os arquivos necessários para realizar o deploy utilizando Docker
 - `kubernetes-deploy/` - Contém os arquivos de configuração para o deploy utilizando Kubernetes, incluindo o arquivo `k8s-deployment.yaml` para a criação do Deployment no Kubernetes
+
+---
   
 ## Tecnologias 
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-<p align="right">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo" />
-</p>
-
-
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00A9E0" alt="Node.js" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00A9E0" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00A9E0" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00A9E0" alt="Git" />
+<img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=00A9E0" alt="GitLab" />
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00A9E0" alt="VS Code" />
